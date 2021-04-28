@@ -1,3 +1,2 @@
-# To read
-1. Debugging https://vimawesome.com/plugin/dbgpavim
-2. More useful plugins https://realpython.com/vim-and-python-a-match-made-in-heaven/
+# Description
+This is my simple .vimrc I want to store here just to easily install it on my 3 billion devices I have to manage.
